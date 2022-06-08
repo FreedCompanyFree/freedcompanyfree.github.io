@@ -3,7 +3,7 @@
     "short_name": "ProNerd",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#FFFFFF",
+    "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "School Helper",
     "orientation": "portrait-primary",
