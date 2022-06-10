@@ -80,15 +80,15 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"version.json": "a054d15f47f85cd5e04ff7024c2144df",
+"version.json": "779e34746d135093e0e67122452353f0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "e4f57355e578a55568222c5920e3670d",
-"/": "e4f57355e578a55568222c5920e3670d",
-"main.dart.js": "af5eaae6ee7f27431de90c51bab5f3db",
+"index.html": "bb182f3fd81f863811f27660759cc786",
+"/": "bb182f3fd81f863811f27660759cc786",
+"main.dart.js": "649c53491dd856b51a2117824017576d",
 "manifest.json": "eda834508ff2ad1195c4adafd3b9dfed"
 };
 
