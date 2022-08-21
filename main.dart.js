@@ -92400,8 +92400,11 @@ if(!s)return"E-mail invalido"
 else return null}}}
 A.a2D.prototype={}
 A.xC.prototype={
-w(a,b){var s=this,r=null,q=A.a_(r,r,B.f,r,r,r,r,150,r,r,r,r,r,r),p=t.p
-return A.eh(!0,A.fm(r,r,A.pN(A.a_(r,A.aU(A.a([B.a6N,q,new A.aR(B.ak,A.rk(r,A.aU(A.a([A.p0(B.bX,new A.ap5(s),B.tt,!1,"Nome",new A.ap6(s)),B.dI,A.p0(B.bX,new A.ap7(s),B.kO,!1,"Insira seu e-mail",new A.ap8(s)),B.dI,A.p0(B.bX,new A.ap9(s),B.fb,!0,"Insira sua nova senha",new A.apa(s)),A.p0(B.bX,new A.apb(s),B.fb,!0,"Repita sua senha",new A.apc(s)),B.pg,new A.e_(new A.apd(s),r),A.a_(r,new A.hR("Voltar",new A.ape(),r),B.f,r,r,r,r,r,r,B.rO,r,r,r,r)],p),B.n,B.cm,B.o),r),r)],p),B.n,B.m,B.o),B.f,B.r,r,r,r,r,r,r,r,r,r,r),r,B.F,r,r,B.K),r,r,r,r),!0,B.I,!0,!0)}}
+w(a,b){var s=this,r=null,q=t.p,p=A.a([],q)
+p.push(A.a_(r,r,B.f,r,r,r,r,100,r,r,r,r,r,r))
+p.push(B.a6N)
+p.push(new A.aR(B.ak,A.rk(r,A.aU(A.a([A.p0(B.bX,new A.ap5(s),B.tt,!1,"Nome",new A.ap6(s)),B.dI,A.p0(B.bX,new A.ap7(s),B.kO,!1,"Insira seu e-mail",new A.ap8(s)),B.dI,A.p0(B.bX,new A.ap9(s),B.fb,!0,"Insira sua nova senha",new A.apa(s)),A.p0(B.bX,new A.apb(s),B.fb,!0,"Repita sua senha",new A.apc(s)),B.pg,new A.e_(new A.apd(s),r),A.a_(r,new A.hR("Voltar",new A.ape(),r),B.f,r,r,r,r,r,r,B.rO,r,r,r,r)],q),B.n,B.cm,B.o),r),r))
+return A.eh(!0,A.fm(r,r,A.pN(A.a_(r,A.aU(p,B.n,B.m,B.o),B.f,B.r,r,r,r,r,r,r,r,r,r,r),r,B.F,r,r,B.K),r,r,r,r),!0,B.I,!0,!0)}}
 A.ap5.prototype={
 $1(a){var s=$.q
 if(s==null)s=$.q=B.j
