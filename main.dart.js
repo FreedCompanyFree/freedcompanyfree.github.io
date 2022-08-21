@@ -91028,7 +91028,7 @@ A.aah.prototype={
 $0(){},
 $S:0}
 A.aag.prototype={
-$2(a,b){return B.Le},
+$2(a,b){return B.Ld},
 $S:198}
 A.fu.prototype={
 fp(){this.hs()
@@ -92102,7 +92102,7 @@ else{p=q.gcc()
 q=q.x
 q=p.bC(0,q==null?A.aJ():q).a}p=t.p
 o=t.h9
-return A.bg(A.aU(A.a([B.Lf,A.cJ(A.aU(A.a([A.a_(s,A.bZ(A.a([new A.e_(new A.ao7(this),s),B.bh,B.aej,B.a9_,new A.e_(new A.ao8(this,b),s)],p),B.n,B.m,B.o,s),B.f,s,s,s,s,50,s,s,B.kB,s,s,s),A.p3(new A.ao9(),A.hs(r,A.aSj(),!1,o),o)],p),B.n,B.m,B.o),1)],p),B.n,B.m,B.o),s,q)}}
+return A.bg(A.aU(A.a([B.Le,A.cJ(A.aU(A.a([A.a_(s,A.bZ(A.a([new A.e_(new A.ao7(this),s),B.bh,B.aej,B.a9_,new A.e_(new A.ao8(this,b),s)],p),B.n,B.m,B.o,s),B.f,s,s,s,s,50,s,s,B.kB,s,s,s),A.p3(new A.ao9(),A.hs(r,A.aSj(),!1,o),o)],p),B.n,B.m,B.o),1)],p),B.n,B.m,B.o),s,q)}}
 A.ao7.prototype={
 $0(){var s=null,r=$.q
 if(r==null)r=$.q=B.j
@@ -92239,7 +92239,7 @@ A.anH.prototype={
 $0(){return A.dI($.L(),"/detailedPost",this.a.e,t.z)},
 $S:0}
 A.anG.prototype={
-$2(a,b){return B.Lc},
+$2(a,b){return B.Lb},
 $S:198}
 A.anF.prototype={
 $3(a,b,c){return B.fc},
@@ -92702,7 +92702,7 @@ $.L()
 s=$.bd()
 r=s.gcc()
 s=s.x
-return A.fm(q,q,A.a_(q,B.La,B.f,B.r,q,q,q,r.bC(0,s==null?A.aJ():s).b,q,q,B.ak,q,q,q),q,q,q,q)}}
+return A.fm(q,q,A.a_(q,B.Lh,B.f,B.r,q,q,q,r.bC(0,s==null?A.aJ():s).b,q,q,B.ak,q,q,q),q,q,q,q)}}
 A.fr.prototype={
 fp(){var s=this
 s.hs()
@@ -93120,7 +93120,7 @@ w(a,b){var s=null,r=this.c,q=t.p
 return A.aU(A.a([A.a_(s,A.bZ(A.a([A.hQ(s,new A.fg(r.c,1),s,18),A.cJ(new A.aR(B.rR,A.aU(A.a([A.b0(r.d,s,s,s,s,s,s,s,s,s,s,s)],q),B.aN,B.cm,B.o),s),1)],q),B.n,B.m,B.o,s),B.f,s,s,s,s,s,s,s,B.rS,s,s,s),B.rC],q),B.n,B.m,B.o)}}
 A.Yp.prototype={
 w(a,b){var s=null
-return A.fm(A.a8h(s,s,!0,s,s,s,1,s,s,s,!1,s,s,s,s,s,!0,s,s,s,s,B.L7,s,s,s,1,s),s,B.Ld,s,s,s,s)}}
+return A.fm(A.a8h(s,s,!0,s,s,s,1,s,s,s,!1,s,s,s,s,s,!0,s,s,s,s,B.L7,s,s,s,1,s),s,B.Lc,s,s,s,s)}}
 A.a8v.prototype={
 $0(){return B.Qx},
 $S:621}
@@ -99470,10 +99470,6 @@ B.lC=new A.Ru(null)
 B.L6=new A.dq(B.D,null,null,B.lC,null)
 B.aed=new A.cN("Freed Company",null,null,null,null,null,null,null,null,null,null,null,null)
 B.L7=new A.dq(B.D,null,null,B.aed,null)
-B.aA=new A.j8(6)
-B.adi=new A.D(!0,null,null,null,null,null,25,B.aA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.aef=new A.cN("PRO NERD     Vers\xe3o Web",null,B.adi,null,null,null,null,null,null,null,null,null,null)
-B.La=new A.dq(B.D,null,null,B.aef,null)
 B.ahY=new A.YM(0,"material")
 B.O5=new A.n(4294638330)
 B.ki=new A.n(4294309365)
@@ -99489,11 +99485,11 @@ B.M4=new A.n(4280361249)
 B.aV=new A.bw([50,B.O5,100,B.ki,200,B.NN,300,B.NC,350,B.Nt,400,B.rj,500,B.N1,600,B.f_,700,B.Mw,800,B.Mj,850,B.r9,900,B.M4],t.pl)
 B.co=new A.rV(B.aV,4288585374)
 B.Lk=new A.mw(4,null,null,B.co,null,null,null,null)
-B.Lc=new A.dq(B.D,null,null,B.Lk,null)
+B.Lb=new A.dq(B.D,null,null,B.Lk,null)
 B.Yt=A.a(s([]),A.a3("C<ayx>"))
 B.RQ=new A.R0(1,"unrestricted")
 B.agg=new A.Ie(null)
-B.Ld=new A.dq(B.D,null,null,B.agg,null)
+B.Lc=new A.dq(B.D,null,null,B.agg,null)
 B.Oe=new A.n(4294937216)
 B.Oa=new A.n(4294922834)
 B.O8=new A.n(4294907716)
@@ -99524,9 +99520,13 @@ B.Qt=new A.wr(B.td,null,null)
 B.eV=new A.dq(B.D,null,null,B.Qt,null)
 B.tt=new A.c1(58513,"MaterialIcons",null,!1)
 B.Rd=new A.c4(B.tt,null,null,null)
-B.Le=new A.dq(B.D,null,null,B.Rd,null)
+B.Ld=new A.dq(B.D,null,null,B.Rd,null)
 B.OR=new A.mA("Posts",null)
-B.Lf=new A.dq(B.D,null,null,B.OR,null)
+B.Le=new A.dq(B.D,null,null,B.OR,null)
+B.aA=new A.j8(6)
+B.adi=new A.D(!0,null,null,null,null,null,25,B.aA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.aef=new A.cN("PRO NERD",null,B.adi,null,null,null,null,null,null,null,null,null,null)
+B.Lh=new A.dq(B.D,null,null,B.aef,null)
 B.Li=new A.BD(null,null,null,null,null,null,null,null,null)
 B.Lj=new A.BE(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.kc=new A.fP(B.w)
@@ -100073,12 +100073,12 @@ B.TN=A.a(s([B.ae7,B.bh]),t.p)
 B.Hx=new A.cN("N\xe3o h\xe1 entregas pendentes",null,null,null,null,null,null,null,null,null,null,null,null)
 B.tn=new A.n_(61614,"FontAwesomeSolid","font_awesome_flutter",!1)
 B.Rf=new A.c4(B.tn,35,null,null)
-B.Lg=new A.dq(B.D,null,null,B.Rf,null)
-B.a6L=new A.aR(B.f9,B.Lg,null)
+B.Lf=new A.dq(B.D,null,null,B.Rf,null)
+B.a6L=new A.aR(B.f9,B.Lf,null)
 B.TR=A.a(s([B.Hx,B.a6L]),t.p)
 B.Rg=new A.c4(B.tn,50,null,null)
-B.Lh=new A.dq(B.D,null,null,B.Rg,null)
-B.a6M=new A.aR(B.f9,B.Lh,null)
+B.Lg=new A.dq(B.D,null,null,B.Rg,null)
+B.a6M=new A.aR(B.f9,B.Lg,null)
 B.uO=A.a(s([B.Hx,B.a6M]),t.p)
 B.U1=A.a(s(["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]),t.s)
 B.U3=A.a(s(["AM","PM"]),t.s)
@@ -100153,8 +100153,8 @@ B.L8=new A.dq(B.D,null,null,B.aen,null)
 B.a92=new A.cx(200,40,B.L8,null)
 B.acn=new A.D(!0,B.co,null,null,null,null,11,B.aA,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.aeh=new A.cN("SIMPLICITY FOR MORE",null,B.acn,null,null,null,null,null,null,null,null,null,null)
-B.Lb=new A.dq(B.D,null,null,B.aeh,null)
-B.a91=new A.cx(null,20,B.Lb,null)
+B.La=new A.dq(B.D,null,null,B.aeh,null)
+B.a91=new A.cx(null,20,B.La,null)
 B.VQ=A.a(s([B.a92,B.a91]),t.p)
 B.wm=A.a(s([1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,16384,32768,65536,131072,262144,524288,1048576,2097152,4194304,8388608,16777216,33554432,67108864,134217728,268435456,536870912,1073741824,2147483648]),t.t)
 B.eD=new A.kz(0,"miter")
